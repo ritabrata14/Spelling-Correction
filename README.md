@@ -30,7 +30,7 @@ To build from source:
 
 .. code:: bash
 
-    git clone https://github.com/barrust/pyspellchecker.git
+    git clone (https://github.com/ritabrata14/Spelling-Correction.git)
     cd spellchecker
     
     1. pip install pyspellchecker
