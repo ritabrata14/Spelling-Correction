@@ -30,14 +30,15 @@ To build from source:
 
 .. code:: bash
 
-    git clone (https://github.com/ritabrata14/Spelling-Correction.git)
-    cd spellchecker
+    1. git clone (https://github.com/ritabrata14/Spelling-Correction.git)
     
-    1. pip install pyspellchecker
+    2. cd spellchecker
+    
+    3. pip install pyspellchecker
 
-    3. pip install pyspellchecker==0.5.6
+    4. pip install pyspellchecker==0.5.6
 
-    4. python main_model.py
+    5. python main_model.py
 
 Dataset
 -------------------------------------------------------------------------------
